@@ -1,5 +1,4 @@
-#hi
-#test
+#FOR RND PURPOSES#
 #test-01302018
 #test-02062018
 #....verifying refresh##
