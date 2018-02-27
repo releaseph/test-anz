@@ -1,10 +1,5 @@
 #FOR RND PURPOSES#
-#test-01302018
-#test-02062018
-#....verifying refresh##
-#feb 7, 2018#
-#test for test branch#
-##///02292018//...
+#test-for DEMO#
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
