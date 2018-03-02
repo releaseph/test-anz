@@ -1,6 +1,5 @@
 #FOR RND PURPOSES#
-#test-for DEMO#
-#test
+#test-for environment update
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
