@@ -1,5 +1,5 @@
 #FOR RND PURPOSES#
-#test-for environment update
+#THIS FILE IS FOR LIVE ONLY
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
