@@ -1,5 +1,6 @@
 #FOR RND PURPOSES#
 #THIS FILE IS FOR LIVE ONLY
+#this is for removing refresh only
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
