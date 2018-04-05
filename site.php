@@ -1,5 +1,6 @@
 #FOR RND PURPOSES#
 #THIS FILE IS FOR TEST DEPLOY ONLY
+#test in removing refresh only
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
