@@ -1,6 +1,4 @@
-#FOR RND PURPOSES#
-#THIS FILE IS FOR TEST DEPLOY ONLY
-#test for refresh only
+// THIS IS A TEST COMMIT FOR STAGING USING PUPPET
 <?php
 
 define('DB_SERVER', 'anz-go-testdb-rds.aws.cambridge.edu.au');
