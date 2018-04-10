@@ -1,4 +1,3 @@
-// THIS COMMIT IS FOR PRODUCTION TEST OF PUPPET
 <?php
 define('DB_SERVER', 'anz-go-production-rds.aws.cambridge.edu.au');
 define('DB_USERNAME', 'anzrds');
